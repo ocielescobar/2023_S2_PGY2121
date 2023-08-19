@@ -1,0 +1,23 @@
+public class SpotifyTrucho {
+  private String nombre;  
+  public statatic void main(String[] args){
+    char sexo = 'M';
+    //char es 1 caracter solamente con comilla simple '', string es para mas de 1 caracter y va con doble comilla ""
+      String nombre = "Sebastian";  
+    boolean isValid = false;
+      byte bytes;
+    int edad = 33;
+      float decimal = 3.14f;
+      double doble = 3.14d;
+      long numeroLargo = 231232132132131123l;
+      short numeroChiquito = 34;
+    System.out.println(nombre);
+    System.out.println(edad);
+    sout+TAB
+      
+      /*
+      1 2 3 4 5 6 7 8
+          .          
+      */
+  }
+}
